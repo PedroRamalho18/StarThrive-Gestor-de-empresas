@@ -1,0 +1,30 @@
+Cafe,Cidral,Coimbra,98.23,2,500,50,60,50
+Cafe,General,Coimbra,74.62,3,15000,100,70,60
+Cafe,Pacifico,Penacova,62.32,1,100,40,30,25
+Cafe,Comboio,Beja,98.32,5,20000,200,60,60
+Cafe,A Mó,Penacova,45.26,2,8000,40,30,100
+Pastelaria,Doce Mel,Coimbra,85.23,2,50,9000,300,20.1
+Pastelaria,Moinho Velho,Coimbra,78.21,10,400,5000,300,30
+Pastelaria,Venus,Coimbra,00.21,8,300,450,150,40
+Pastelaria,Doce Pecado,Leiria,23.21,4,100,20000,60,20
+Pastelaria,Amendoeira,Faro,02.45,6,120,50000,300,3000
+Restaurante local,Mimo,Coimbra,15.29,3,8000,10,320,15,50,10,500
+Restaurante local,Couraça,Lisboa,10.39,10,60000,100,340,50,80,20,5000
+Restaurante local,Taberna Aliados,Porto,85.94,8,70000,80,350,140,50,10,2000
+Restaurante local,Brasão,Guarda,00.98,5,150000,20,300,20,60,20,400
+Restaurante local,Taberna Belga,Braga,74.10,10,100000,40,365,5,100,40,500
+Restaurante fast-food,Mcdonalds,Coimbra,23.54,4,4500,200,100,100,50,60,50
+Restaurante fast-food,Burger King,Aveiro,12.32,30,50000,150,300,30,55,90,10
+Restaurante fast-food,KFC,Coimbra,43.87,10,10000,100,365,20,49,10,40
+Restaurante fast-food,Kebab,Lisboa,85.02,30,9999999,50,360,70,15,150,10
+Restaurante fast-food,Pizza Hut,Porto,98.25,5,300000,80,250,50,94,70,50
+Mercado,D Pedro V,Coimbra,12.34,8000,super,50,40
+Mercado,Bolhão,Porto,54.02,500,super,100,100
+Mercado,Benfica,Lisboa,74.02,15000,hiper,94.6,70
+Mercado,Costa Nova,Aveiro,03.14,100,mini,20.3,20.4
+Mercado,Amanhecer,Coimbra,45.10,500,mini,10,20.4
+Frutaria,Frutas e Companhia,Coimbra,45.01,5000,60,10
+Frutaria,Laranjas,Faro,89.65,10000,30,50
+Frutaria,Pomar,Viseu,10.25,500,30,500
+Frutaria,Vindima,Viana do Castelo,74.65,2000,30,48254
+Frutaria,Sumo,Castelo Branco,45.21,4000,80,45978
